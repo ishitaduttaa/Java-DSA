@@ -6,15 +6,15 @@
 |---:|:---:|---|---|---|---:|
 | 1 | ☑ | [Say Hello](https://www.w3schools.com/practice/practice.php?problem=SYNTAX01&lang=java) | Read a name from input and print a greeting. | Easy | 20 XP |
 | 2 | ☑ | [Celsius to Fahrenheit](https://www.w3schools.com/practice/practice.php?problem=VARIABLES01&lang=java) | Convert a temperature from Celsius to Fahrenheit. | Easy | 20 XP |
-| 3 | ☐ | [Even or Odd](https://www.w3schools.com/practice/practice.php?problem=OPERATORS02&lang=java) | Check if a number is even or odd. | Easy | 20 XP |
+| 3 | ☑ | [Even or Odd](https://www.w3schools.com/practice/practice.php?problem=OPERATORS02&lang=java) | Check if a number is even or odd. | Easy | 20 XP |
 | 4 | ☐ | [Make a Username](https://www.w3schools.com/practice/practice.php?problem=STRINGS01&lang=java) | Create a username and initials from a first and last name. | Easy | 20 XP |
-| 5 | ☐ | [Voting Age](https://www.w3schools.com/practice/practice.php?problem=BOOLEANS01&lang=java) | Determine if a person is old enough to vote. | Easy | 20 XP |
-| 6 | ☐ | [Grade Calculator](https://www.w3schools.com/practice/practice.php?problem=CONDITIONS02&lang=java) | Convert a score into a letter grade. | Easy | 20 XP |
-| 7 | ☐ | [Multiplication Table](https://www.w3schools.com/practice/practice.php?problem=LOOPS02&lang=java) | Print the multiplication table for a given number. | Easy | 20 XP |
-| 8 | ☐ | [Factorial](https://www.w3schools.com/practice/practice.php?problem=FUNCTIONS02&lang=java) | Create a function that calculates the factorial of a number. | Easy | 20 XP |
-| 9 | ☐ | [Sum of Numbers](https://www.w3schools.com/practice/practice.php?problem=ARRAYS01&lang=java) | Read a list of numbers and calculate their sum. | Easy | 20 XP |
-| 10 | ☐ | [Area Calculator](https://www.w3schools.com/practice/practice.php?problem=MATH01&lang=java) | Calculate the area of a rectangle, triangle, or circle. | Easy | 20 XP |
-| 11 | ☐ | [Shopping Receipt](https://www.w3schools.com/practice/practice.php?problem=RECEIPT01&lang=java) | Read item details from input and print a short receipt. | Easy | 20 XP |
+| 5 | ☑ | [Voting Age](https://www.w3schools.com/practice/practice.php?problem=BOOLEANS01&lang=java) | Determine if a person is old enough to vote. | Easy | 20 XP |
+| 6 | ☑ | [Grade Calculator](https://www.w3schools.com/practice/practice.php?problem=CONDITIONS02&lang=java) | Convert a score into a letter grade. | Easy | 20 XP |
+| 7 | ☑ | [Multiplication Table](https://www.w3schools.com/practice/practice.php?problem=LOOPS02&lang=java) | Print the multiplication table for a given number. | Easy | 20 XP |
+| 8 | ☑ | [Factorial](https://www.w3schools.com/practice/practice.php?problem=FUNCTIONS02&lang=java) | Create a function that calculates the factorial of a number. | Easy | 20 XP |
+| 9 | ☑ | [Sum of Numbers](https://www.w3schools.com/practice/practice.php?problem=ARRAYS01&lang=java) | Read a list of numbers and calculate their sum. | Easy | 20 XP |
+| 10 | ☑ | [Area Calculator](https://www.w3schools.com/practice/practice.php?problem=MATH01&lang=java) | Calculate the area of a rectangle, triangle, or circle. | Easy | 20 XP |
+| 11 | ☑ | [Shopping Receipt](https://www.w3schools.com/practice/practice.php?problem=RECEIPT01&lang=java) | Read item details from input and print a short receipt. | Easy | 20 XP |
 | 12 | ☐ | [Personal Info](https://www.w3schools.com/practice/practice.php?problem=BASICS03&lang=java) | Read personal details from input and display them. | Easy | 20 XP |
 | 13 | ☐ | [Swap Values](https://www.w3schools.com/practice/practice.php?problem=BASICS04&lang=java) | Read two values and print them in swapped order. | Easy | 20 XP |
 | 14 | ☐ | [Rectangle Border](https://www.w3schools.com/practice/practice.php?problem=BASICS05&lang=java) | Print a rectangle border made of stars. | Easy | 20 XP |
