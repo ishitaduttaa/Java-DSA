@@ -15,15 +15,15 @@
 | 9 | ☑ | [Sum of Numbers](https://www.w3schools.com/practice/practice.php?problem=ARRAYS01&lang=java) | Read a list of numbers and calculate their sum. | Easy | 20 XP |
 | 10 | ☑ | [Area Calculator](https://www.w3schools.com/practice/practice.php?problem=MATH01&lang=java) | Calculate the area of a rectangle, triangle, or circle. | Easy | 20 XP |
 | 11 | ☑ | [Shopping Receipt](https://www.w3schools.com/practice/practice.php?problem=RECEIPT01&lang=java) | Read item details from input and print a short receipt. | Easy | 20 XP |
-| 12 | ☐ | [Personal Info](https://www.w3schools.com/practice/practice.php?problem=BASICS03&lang=java) | Read personal details from input and display them. | Easy | 20 XP |
-| 13 | ☐ | [Swap Values](https://www.w3schools.com/practice/practice.php?problem=BASICS04&lang=java) | Read two values and print them in swapped order. | Easy | 20 XP |
-| 14 | ☐ | [Rectangle Border](https://www.w3schools.com/practice/practice.php?problem=BASICS05&lang=java) | Print a rectangle border made of stars. | Easy | 20 XP |
-| 15 | ☐ | [Repeat Message](https://www.w3schools.com/practice/practice.php?problem=BASICS06&lang=java) | Read a message and a number, then print the message that many times. | Easy | 20 XP |
-| 16 | ☐ | [Currency Exchange](https://www.w3schools.com/practice/practice.php?problem=VARIABLES02&lang=java) | Calculate a currency exchange from an amount and rate. | Easy | 20 XP |
-| 17 | ☐ | [BMI Calculator](https://www.w3schools.com/practice/practice.php?problem=VARIABLES04&lang=java) | Calculate Body Mass Index from weight and height. | Easy | 20 XP |
-| 18 | ☐ | [Circle Properties](https://www.w3schools.com/practice/practice.php?problem=VARIABLES05&lang=java) | Calculate the circumference and area of a circle. | Easy | 20 XP |
-| 19 | ☐ | [Simple Calculator](https://www.w3schools.com/practice/practice.php?problem=OPERATORS01&lang=java) | Perform basic arithmetic on two numbers. | Easy | 20 XP |
-| 20 | ☐ | [Discount Price](https://www.w3schools.com/practice/practice.php?problem=OPERATORS03&lang=java) | Calculate a discounted price from a price and discount percentage. | Easy | 20 XP |
+| 12 | ☑ | [Personal Info](https://www.w3schools.com/practice/practice.php?problem=BASICS03&lang=java) | Read personal details from input and display them. | Easy | 20 XP |
+| 13 | ☑ | [Swap Values](https://www.w3schools.com/practice/practice.php?problem=BASICS04&lang=java) | Read two values and print them in swapped order. | Easy | 20 XP |
+| 14 | ☑ | [Rectangle Border](https://www.w3schools.com/practice/practice.php?problem=BASICS05&lang=java) | Print a rectangle border made of stars. | Easy | 20 XP |
+| 15 | ☑ | [Repeat Message](https://www.w3schools.com/practice/practice.php?problem=BASICS06&lang=java) | Read a message and a number, then print the message that many times. | Easy | 20 XP |
+| 16 | ☑ | [Currency Exchange](https://www.w3schools.com/practice/practice.php?problem=VARIABLES02&lang=java) | Calculate a currency exchange from an amount and rate. | Easy | 20 XP |
+| 17 | ☑ | [BMI Calculator](https://www.w3schools.com/practice/practice.php?problem=VARIABLES04&lang=java) | Calculate Body Mass Index from weight and height. | Easy | 20 XP |
+| 18 | ☑ | [Circle Properties](https://www.w3schools.com/practice/practice.php?problem=VARIABLES05&lang=java) | Calculate the circumference and area of a circle. | Easy | 20 XP |
+| 19 | ☑ | [Simple Calculator](https://www.w3schools.com/practice/practice.php?problem=OPERATORS01&lang=java) | Perform basic arithmetic on two numbers. | Easy | 20 XP |
+| 20 | ☑ | [Discount Price](https://www.w3schools.com/practice/practice.php?problem=OPERATORS03&lang=java) | Calculate a discounted price from a price and discount percentage. | Easy | 20 XP |
 | 21 | ☐ | [Split the Bill](https://www.w3schools.com/practice/practice.php?problem=OPERATORS04&lang=java) | Split a total amount equally among a group of people. | Easy | 20 XP |
 | 22 | ☐ | [Digit Extractor](https://www.w3schools.com/practice/practice.php?problem=OPERATORS05&lang=java) | Extract the individual digits of a 3-digit number. | Easy | 20 XP |
 | 23 | ☐ | [Word Counter](https://www.w3schools.com/practice/practice.php?problem=STRINGS02&lang=java) | Count the number of words in a sentence. | Easy | 20 XP |
