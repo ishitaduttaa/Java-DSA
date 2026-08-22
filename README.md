@@ -1,4 +1,4 @@
-# Java Practice Problems
+ # Java Practice Problems
 
 > 100 Java practice problems from W3Schools with solutions, difficulty levels, and progress tracking.
 
@@ -7,7 +7,7 @@
 | 1 | ☑ | [Say Hello](https://www.w3schools.com/practice/practice.php?problem=SYNTAX01&lang=java) | Read a name from input and print a greeting. | Easy | 20 XP |
 | 2 | ☑ | [Celsius to Fahrenheit](https://www.w3schools.com/practice/practice.php?problem=VARIABLES01&lang=java) | Convert a temperature from Celsius to Fahrenheit. | Easy | 20 XP |
 | 3 | ☑ | [Even or Odd](https://www.w3schools.com/practice/practice.php?problem=OPERATORS02&lang=java) | Check if a number is even or odd. | Easy | 20 XP |
-| 4 | ☐ | [Make a Username](https://www.w3schools.com/practice/practice.php?problem=STRINGS01&lang=java) | Create a username and initials from a first and last name. | Easy | 20 XP |
+| 4 | ☑ | [Make a Username](https://www.w3schools.com/practice/practice.php?problem=STRINGS01&lang=java) | Create a username and initials from a first and last name. | Easy | 20 XP |
 | 5 | ☑ | [Voting Age](https://www.w3schools.com/practice/practice.php?problem=BOOLEANS01&lang=java) | Determine if a person is old enough to vote. | Easy | 20 XP |
 | 6 | ☑ | [Grade Calculator](https://www.w3schools.com/practice/practice.php?problem=CONDITIONS02&lang=java) | Convert a score into a letter grade. | Easy | 20 XP |
 | 7 | ☑ | [Multiplication Table](https://www.w3schools.com/practice/practice.php?problem=LOOPS02&lang=java) | Print the multiplication table for a given number. | Easy | 20 XP |
@@ -24,28 +24,28 @@
 | 18 | ☑ | [Circle Properties](https://www.w3schools.com/practice/practice.php?problem=VARIABLES05&lang=java) | Calculate the circumference and area of a circle. | Easy | 20 XP |
 | 19 | ☑ | [Simple Calculator](https://www.w3schools.com/practice/practice.php?problem=OPERATORS01&lang=java) | Perform basic arithmetic on two numbers. | Easy | 20 XP |
 | 20 | ☑ | [Discount Price](https://www.w3schools.com/practice/practice.php?problem=OPERATORS03&lang=java) | Calculate a discounted price from a price and discount percentage. | Easy | 20 XP |
-| 21 | ☐ | [Split the Bill](https://www.w3schools.com/practice/practice.php?problem=OPERATORS04&lang=java) | Split a total amount equally among a group of people. | Easy | 20 XP |
-| 22 | ☐ | [Digit Extractor](https://www.w3schools.com/practice/practice.php?problem=OPERATORS05&lang=java) | Extract the individual digits of a 3-digit number. | Easy | 20 XP |
-| 23 | ☐ | [Word Counter](https://www.w3schools.com/practice/practice.php?problem=STRINGS02&lang=java) | Count the number of words in a sentence. | Easy | 20 XP |
-| 24 | ☐ | [Shout It Out](https://www.w3schools.com/practice/practice.php?problem=STRINGS04&lang=java) | Convert a string to uppercase and print its length. | Easy | 20 XP |
-| 25 | ☐ | [First and Last](https://www.w3schools.com/practice/practice.php?problem=STRINGS05&lang=java) | Print the first and last character of a word. | Easy | 20 XP |
-| 26 | ☐ | [Repeat String](https://www.w3schools.com/practice/practice.php?problem=STRINGS06&lang=java) | Read a string and a number, then print the string repeated that many times. | Easy | 20 XP |
-| 27 | ☐ | [Range Checker](https://www.w3schools.com/practice/practice.php?problem=BOOLEANS02&lang=java) | Check if a number falls within a given range. | Easy | 20 XP |
-| 28 | ☐ | [Password Check](https://www.w3schools.com/practice/practice.php?problem=BOOLEANS04&lang=java) | Check if a password is long enough. | Easy | 20 XP |
-| 29 | ☐ | [Ticket Price](https://www.w3schools.com/practice/practice.php?problem=CONDITIONS01&lang=java) | Determine the ticket type and price based on age. | Easy | 20 XP |
-| 30 | ☐ | [Positive Negative Zero](https://www.w3schools.com/practice/practice.php?problem=CONDITIONS04&lang=java) | Check if a number is positive, negative, or zero. | Easy | 20 XP |
-| 31 | ☐ | [Smallest of Three](https://www.w3schools.com/practice/practice.php?problem=CONDITIONS05&lang=java) | Find the smallest of three numbers. | Easy | 20 XP |
-| 32 | ☐ | [Countdown](https://www.w3schools.com/practice/practice.php?problem=LOOPS01&lang=java) | Count down from a number to 1 and print Go! | Easy | 20 XP |
-| 33 | ☐ | [FizzBuzz](https://www.w3schools.com/practice/practice.php?problem=LOOPS03&lang=java) | Implement the classic FizzBuzz challenge. | Easy | 20 XP |
-| 34 | ☐ | [Sum 1 to N](https://www.w3schools.com/practice/practice.php?problem=LOOPS04&lang=java) | Calculate the sum of all numbers from 1 to N. | Easy | 20 XP |
-| 35 | ☐ | [Star Triangle](https://www.w3schools.com/practice/practice.php?problem=LOOPS05&lang=java) | Print a right triangle made of stars. | Easy | 20 XP |
-| 36 | ☐ | [Tip Calculator](https://www.w3schools.com/practice/practice.php?problem=FUNCTIONS01&lang=java) | Create a tip calculator function for a restaurant bill. | Easy | 20 XP |
-| 37 | ☐ | [Power Function](https://www.w3schools.com/practice/practice.php?problem=FUNCTIONS03&lang=java) | Write a function that calculates the power of a number. | Easy | 20 XP |
-| 38 | ☐ | [Average Score](https://www.w3schools.com/practice/practice.php?problem=ARRAYS02&lang=java) | Read a list of scores and calculate their average. | Easy | 20 XP |
-| 39 | ☐ | [Count Matches](https://www.w3schools.com/practice/practice.php?problem=ARRAYS04&lang=java) | Count how many numbers in a list match a target value. | Easy | 20 XP |
-| 40 | ☐ | [Min and Max](https://www.w3schools.com/practice/practice.php?problem=ARRAYS05&lang=java) | Find the smallest and largest numbers in a list. | Easy | 20 XP |
-| 41 | ☐ | [Absolute Difference](https://www.w3schools.com/practice/practice.php?problem=MATH04&lang=java) | Calculate the absolute difference between two numbers. | Easy | 20 XP |
-| 42 | ☐ | [Round Up or Down](https://www.w3schools.com/practice/practice.php?problem=MATH05&lang=java) | Round a decimal number to the nearest whole number. | Easy | 20 XP |
+| 21 | ☑ | [Split the Bill](https://www.w3schools.com/practice/practice.php?problem=OPERATORS04&lang=java) | Split a total amount equally among a group of people. | Easy | 20 XP |
+| 22 | ☑ | [Digit Extractor](https://www.w3schools.com/practice/practice.php?problem=OPERATORS05&lang=java) | Extract the individual digits of a 3-digit number. | Easy | 20 XP |
+| 23 | ☑ | [Word Counter](https://www.w3schools.com/practice/practice.php?problem=STRINGS02&lang=java) | Count the number of words in a sentence. | Easy | 20 XP |
+| 24 | ☑ | [Shout It Out](https://www.w3schools.com/practice/practice.php?problem=STRINGS04&lang=java) | Convert a string to uppercase and print its length. | Easy | 20 XP |
+| 25 | ☑ | [First and Last](https://www.w3schools.com/practice/practice.php?problem=STRINGS05&lang=java) | Print the first and last character of a word. | Easy | 20 XP |
+| 26 | ☑ | [Repeat String](https://www.w3schools.com/practice/practice.php?problem=STRINGS06&lang=java) | Read a string and a number, then print the string repeated that many times. | Easy | 20 XP |
+| 27 | ☑ | [Range Checker](https://www.w3schools.com/practice/practice.php?problem=BOOLEANS02&lang=java) | Check if a number falls within a given range. | Easy | 20 XP |
+| 28 | ☑ | [Password Check](https://www.w3schools.com/practice/practice.php?problem=BOOLEANS04&lang=java) | Check if a password is long enough. | Easy | 20 XP |
+| 29 | ☑ | [Ticket Price](https://www.w3schools.com/practice/practice.php?problem=CONDITIONS01&lang=java) | Determine the ticket type and price based on age. | Easy | 20 XP |
+| 30 | ☑ | [Positive Negative Zero](https://www.w3schools.com/practice/practice.php?problem=CONDITIONS04&lang=java) | Check if a number is positive, negative, or zero. | Easy | 20 XP |
+| 31 | ☑ | [Smallest of Three](https://www.w3schools.com/practice/practice.php?problem=CONDITIONS05&lang=java) | Find the smallest of three numbers. | Easy | 20 XP |
+| 32 | ☑ | [Countdown](https://www.w3schools.com/practice/practice.php?problem=LOOPS01&lang=java) | Count down from a number to 1 and print Go! | Easy | 20 XP |
+| 33 | ☑ | [FizzBuzz](https://www.w3schools.com/practice/practice.php?problem=LOOPS03&lang=java) | Implement the classic FizzBuzz challenge. | Easy | 20 XP |
+| 34 | ☑ | [Sum 1 to N](https://www.w3schools.com/practice/practice.php?problem=LOOPS04&lang=java) | Calculate the sum of all numbers from 1 to N. | Easy | 20 XP |
+| 35 | ☑ | [Star Triangle](https://www.w3schools.com/practice/practice.php?problem=LOOPS05&lang=java) | Print a right triangle made of stars. | Easy | 20 XP |
+| 36 | ☑ | [Tip Calculator](https://www.w3schools.com/practice/practice.php?problem=FUNCTIONS01&lang=java) | Create a tip calculator function for a restaurant bill. | Easy | 20 XP |
+| 37 | ☑ | [Power Function](https://www.w3schools.com/practice/practice.php?problem=FUNCTIONS03&lang=java) | Write a function that calculates the power of a number. | Easy | 20 XP |
+| 38 | ☑ | [Average Score](https://www.w3schools.com/practice/practice.php?problem=ARRAYS02&lang=java) | Read a list of scores and calculate their average. | Easy | 20 XP |
+| 39 | ☑ | [Count Matches](https://www.w3schools.com/practice/practice.php?problem=ARRAYS04&lang=java) | Count how many numbers in a list match a target value. | Easy | 20 XP |
+| 40 | ☑ | [Min and Max](https://www.w3schools.com/practice/practice.php?problem=ARRAYS05&lang=java) | Find the smallest and largest numbers in a list. | Easy | 20 XP |
+| 41 | ☑ | [Absolute Difference](https://www.w3schools.com/practice/practice.php?problem=MATH04&lang=java) | Calculate the absolute difference between two numbers. | Easy | 20 XP |
+| 42 | ☑ | [Round Up or Down](https://www.w3schools.com/practice/practice.php?problem=MATH05&lang=java) | Round a decimal number to the nearest whole number. | Easy | 20 XP |
 | 43 | ☐ | [Leap Year](https://www.w3schools.com/practice/practice.php?problem=CONDITIONS03&lang=java) | Determine if a given year is a leap year. | Medium | 50 XP |
 | 44 | ☐ | [Day of Week](https://www.w3schools.com/practice/practice.php?problem=CONDITIONS06&lang=java) | Convert a day number to a day name. | Medium | 50 XP |
 | 45 | ☐ | [Triangle Classifier](https://www.w3schools.com/practice/practice.php?problem=CONDITIONS07&lang=java) | Classify a triangle based on its side lengths. | Medium | 50 XP |
